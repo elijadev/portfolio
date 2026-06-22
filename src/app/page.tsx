@@ -180,7 +180,7 @@ export default function Home() {
                             </a>
                             
                             <div className="flex items-center gap-4 pl-4 border-l border-white/20">
-                                <a href="https://www.github.com" target="_blank" className="hover:opacity-70 transition-opacity">
+                                <a href="https://github.com/elijadev" target="_blank" className="hover:opacity-70 transition-opacity">
                                     <Image src={githubLogo} alt="Github" width={24} height={24} className="invert" />
                                 </a>
                             </div>
