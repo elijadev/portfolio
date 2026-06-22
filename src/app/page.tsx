@@ -436,7 +436,7 @@ export default function Home() {
                                 <a href="/Bryce_Hilton_Resume.pdf" 
                                 download="Bryce_Hilton_Resume.pdf"
                                 className="px-8 py-4 font-mono text-sm uppercase tracking-widest bg-red-700 text-white border border-red-700 hover:bg-red-600 transition-colors rounded-none inline-block text-center">
-                                    [ DOWNLOAD DATA_SHEET ]
+                                    [ DOWNLOAD RESUME ]
                                 </a>
                             </div>
                         </div>
